@@ -2,7 +2,7 @@
   "name": "electric-purple-black",
   "displayName": "Electric Purple Black",
   "description": "A black-first, electric-purple-forward theme based on a my Konsole theme (language-agnostic).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JonHogan",
   "engines": {
     "vscode": "^1.108.0"
