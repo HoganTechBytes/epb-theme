@@ -19,7 +19,7 @@
       {
         "label": "Electric Purple Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/electric-purple-black-color-theme.json"
+        "path": "./themes/epb-theme.json"
       }
     ]
   }
